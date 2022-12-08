@@ -1,0 +1,11 @@
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\kolaw\OneDrive\Pulpit\Kryptografia\RSA\RSA\obj\Debug\RSA.Form1.resources
